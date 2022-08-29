@@ -1,0 +1,29 @@
+Database flow:
+- Trigger keyword
+ - number=intfield
+ - keyword=txtfield
+- Trigger Datebase
+ - date = txtfield
+ - before date = txtfield
+- Trigger tag:
+ - tags=txtfield
+
+Add Trigger 
+- keyword = foreignkey
+- datebase = foreignkey
+- tag = foreignkey
+ 
+Add text msg:
+ - txtmsg = txtfield
+	
+Add time daily
+ - num = intfield
+ - timeschedule=txt
+
+Add wait until
+ - hrs=intfield
+ - min=intfield
+ - timezone=txtfield
+
+Add tag trigger:
+ - tag=txtfield 
